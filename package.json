@@ -2,7 +2,7 @@
   "name": "mytabrisapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/hello.js",
   "directories": {
     "test": "test"
   },
@@ -18,6 +18,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jhfoo/mytabrisapp/issues"
+  },
+  "dependencies": {
+    "tabris": "^3.0.0",
   },
   "homepage": "https://github.com/jhfoo/mytabrisapp#readme"
 }
