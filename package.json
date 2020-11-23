@@ -1,0 +1,23 @@
+{
+  "name": "mytabrisapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhfoo/mytabrisapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhfoo/mytabrisapp/issues"
+  },
+  "homepage": "https://github.com/jhfoo/mytabrisapp#readme"
+}
